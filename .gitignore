@@ -1,0 +1,9 @@
+*/.idea/*
+*/out/*
+*.class
+.zip
+*.tar.gz
+*.tar
+*.DS_Store
+*MusicUI.iml
+
